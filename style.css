@@ -86,7 +86,7 @@ justify-content:center ;
 }
 .image-courses{
     background-image: url('https://iyadhkhalfallah.github.io/checkpointsGMC/res/webdev3.png');
-    height: 400px;
+    height: 400px; 
     display: flex;
     align-items: center;
     justify-content: center;
@@ -103,10 +103,47 @@ justify-content:center ;
     height: 400px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 .image-contact{
     color: white;
     text-shadow: 5px 2px 2px black;
     font-size: 30px;
+}
+.viewmore1{
+background-image: url(./res/image1.png) ;
+width:300px; height: 300px;
+}
+.viewmore2{
+background-image:url(./res/image2.png);
+width:300px; height:300px;
+}
+.viewmore3{
+background-image:url(./res/image3.png);
+width: 300px; height: 300px;
+}
+.viewmore4{
+background-image:url(./res/Annotation\ 2019-07-17\ 111458.png);
+width:300px; height: 300px;
+}
+.viewmore5{
+background-image:url(./res/Annotation\ 2019-07-17\ 111518.png);
+width: 300px; height:300px;
+}
+.viewmore6{
+background-image:url(./res/Annotation\ 2019-07-17\ 111534.png);
+width: 300px; height:300px;
+
+}
+.viewmore7{
+background-image:url(./res/Annotation\ 2019-07-17\ 111555.png);
+width: 300px; height: 300px;
+}
+.viewmore8{
+background-image:url(./res/Annotation\ 2019-07-17\ 111629.png);
+width: 300px; height: 300px;
+}
+.viewmore9{
+background-image:url(./res/Annotation\ 2019-07-17\ 111646.png);
+width: 300px; height: 300px;
 }
